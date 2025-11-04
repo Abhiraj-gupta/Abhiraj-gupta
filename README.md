@@ -27,4 +27,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiraj-gupta&show_icons=true&locale=en&layout=compact" alt="abhiraj-gupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiraj-gupta&show_icons=true&locale=en" alt="abhiraj-gupta" /></p>

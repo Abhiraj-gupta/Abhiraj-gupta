@@ -28,6 +28,6 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj-gupta&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&hide=html,css"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhiraj-gupta&layout=compact&theme=github_dark&cache_seconds=1800"
   />
 </p>

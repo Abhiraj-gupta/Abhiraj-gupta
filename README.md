@@ -28,6 +28,6 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Abhiraj-gupta&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhiraj-gupta&theme=github_dark"
   />
 </p>

@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Full Stack**
 
-- 📫 How to reach me **dwexabhiraj@gmail.com**
+- 📫 How to reach me **abhirajgupta06072005@gmail.com**
 
 - ⚡ Fun fact **I can turn coffee into code… or at least I try**
 
